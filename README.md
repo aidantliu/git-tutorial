@@ -1,1 +1,1 @@
-Git Tutoral Aidan Liu
+Git Tutorial Aidan Liu
